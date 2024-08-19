@@ -1,8 +1,3 @@
-# !pip install streamlit matplotlib finance-datareader beautifulsoup4
-# 원하는 기업 : 마음AI (377480)
-# 조회기간 : (2023-01-01 ~ 2023-08-14)
-
-
 import streamlit as st
 import FinanceDataReader as fdr
 import pandas as pd
